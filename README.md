@@ -1,4 +1,4 @@
-![](![](https://hackmd.io/_uploads/H1gKs3GKh.png))
+![](https://hackmd.io/_uploads/B1Ct5azt2.png)
 
 ## :space_invader: Alumno:
 ### Famozo, Luca
