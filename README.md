@@ -204,4 +204,4 @@ void prenderLeds()
 }
 ```
 # :link: Link al proyecto
-[Proyecto](https://www.tinkercad.com/things/0xrV4I94Itg-surprising-crift/editel?sharecode=cax-Eh3RfniH3uB58F1ILHAz6OXhezTIlj9fDmH-iqc)
+[Proyecto]([(https://www.tinkercad.com/things/0xrV4I94Itg)]
