@@ -1,4 +1,4 @@
-![](https://hackmd.io/_uploads/B1Ct5azt2.png)
+![](https://github.com/lucafamozo/Proyecto-Alarma-de-Incendios-SPD---Luca-Famozo-J1/blob/main/Parcial%20Practico%202%20SPD%20-%20Luca%20Famozo%20J1/img/proyecto_alarma_incendios.png))
 
 ## :space_invader: Alumno:
 ### Famozo, Luca
