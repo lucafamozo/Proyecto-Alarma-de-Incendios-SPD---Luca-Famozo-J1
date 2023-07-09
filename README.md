@@ -204,4 +204,4 @@ void prenderLeds()
 }
 ```
 # :link: Link al proyecto
-[Proyecto](https://www.tinkercad.com/things/0xrV4I94Itg)
+[Proyecto](https://www.tinkercad.com/things/7UsW8F5bJg8)
